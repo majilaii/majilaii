@@ -1,9 +1,6 @@
-
-Hi there! 👋
-
 Welcome to my GitHub Repository
 
-Hi there! I am currently looking for job opportunities in London and am excited to showcase some of my recent projects. In this repository, you will find three of my notable projects: aTypical, aMAZEthing, and Tactic-toe.
+Hi there 👋! I am currently looking for job opportunities in London and am excited to showcase some of my recent projects. In this repository, you will find three of my notable projects: aTypical, aMAZEthing, and Tactic-toe.
 
 aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
 
