@@ -1,6 +1,6 @@
 Welcome to my GitHub Repository
 
-Hi there 👋! I am currently looking for job opportunities in London and am excited to showcase some of my recent projects. In this repository, you will find three of my notable projects: aTypical, aMAZEthing, and Tactic-toe.
+Hi there 👋! I am currently looking for job opportunities in London and am excited to showcase some of my recent projects. Below, you will find three of my notable projects: aTypical, aMAZEthing, and Tactic-toe!
 
 aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
 
@@ -8,7 +8,7 @@ aMAZEthing is a real-time multiplayer game with a learning component. Algorithms
 
 Tactic-toe is a web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
 
-I am always looking to improve and learn from others, so feel free to take a look around and let me know if you have any questions or suggestions.
+Any recommendations and suggestions are always welcome!
 
 Thank you for visiting!
 
