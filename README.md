@@ -6,7 +6,7 @@ aMAZEthing is a real-time multiplayer game with a learning component. Algorithms
 
 Tactic-toe is a web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
 
-In myy spare time, I go to the gym and play games. Overwatch 2 is pretty fun right now
+In my spare time, I go to the gym and play games. Overwatch 2 is pretty fun right now, but not as fun as Leetcode Algorithm Study Plan 2!! (im joking) 
 
 Thank you for visiting!
 
