@@ -1,16 +1,9 @@
-Hi there 👋! I am currently looking for job opportunities in London and am excited to showcase some of my recent projects. Below, you will find three of my notable projects: aTypical, aMAZEthing, and Tactic-toe!
+Hi there 👋!I'm a full stack web developer with experience and a passion for creating intuitive and dynamic web applications using a variety of technologies, including:
 
-aTypical is a project focused on improving typing skills and speed. Features include personalized practice, real-time progress tracking, and customizable practice texts. Technologies used include React, Express, Mongoose, and Typescript.
-
-aMAZEthing is a real-time multiplayer game with a learning component. Algorithms such as Merge Sort and A* pathfinding are visualized to aid in understanding. Built using React, TypeScript, SocketIO, Auth0, and Redux.
-
-Tactic-toe is a web app that allows users to train their own Tic-Tac-Toe AI model and engage in real-time battles. Built using Angular, SocketIO, PostgreSQL, Express, and Passport.js.
-
-In my spare time, I go to the gym and play games. Overwatch 2 is pretty fun right now, but not as fun as Leetcode Algorithm Study Plan 2!! (im joking) 
-
-Thank you for visiting!
-
-Jacky
+TypeScript & Javascript
+React.js, Angular.js, Redux
+Node.js, Express.js, Koa
+Relational & non relational Databases [Postgres, Mongodb]
 
 
 <!--
